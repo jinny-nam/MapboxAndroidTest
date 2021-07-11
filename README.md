@@ -10,7 +10,7 @@ Mapbox home assignment for technical support engineer
   * [MainActivity.java](https://github.com/jin0639/MapboxAndroidTest/tree/master/app/src/main/java/com/jinny/mapboxtest)
 * Test environment
   * Android Studio Emulator with API24(Nougat), Pixel2(5.0 1080x1920)
-* Documents 
+* Reference 
   * [First steps with the Mapbox Maps SDK for Android](https://docs.mapbox.com/help/tutorials/first-steps-android-sdk)
   * [Android SDK installation](https://docs.mapbox.com/android/maps/guides/install/)
   * [Android Places Plugin](https://docs.mapbox.com/android/plugins/guides/places/)
